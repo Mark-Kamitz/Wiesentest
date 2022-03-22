@@ -2869,3 +2869,16 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+
+/* Header Menu and Sub Menu item  Color */
+.header__menu-item span, .header__submenu .header__menu-item, .header__menu-item .icon-caret 
+{
+color: #00bfa9; /* change color as you like */
+}
+.header__icon--cart {display: none !important;}
+
+.footer-block__details-content>li, .footer-block__details-content>p, .copyright__content a, .footer-block__details-content .list-menu__item--link
+{
+color: #00bfa9 !important; /* change color as you like */
+}
